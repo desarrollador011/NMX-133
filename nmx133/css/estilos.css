@@ -1,0 +1,60 @@
+*{ font-family:Arial,Verdana;font-size: 10px; }
+body{	margin: 0px auto;background: #ffffff; }
+h1{	font-weight:bold;font-size: 16px; margin-bottom: 5px;color:#630202; }
+h1 span{font-weight:bold;font-size: 14px; margin-bottom: 5px;color:#ffffff; }
+form{ margin:0px; padding:0px; }
+a{color:#000000;text-decoration:none;font-weight:bold;font-size:11px;}
+a:hover{color:#00cbe3;text-decoration:underline;}
+.tablelista td{ margin: 0px; padding: 2px 5px 1px 3px; }
+.tablemenu td{ margin: 0px; padding: 2px 2px 2px 4px; }
+.opcion1,.textcampo,.textdetalle,.tipo2,.tipo3{font-size:11px;}
+.opcion1{color: #ffffff;}
+
+.EMP_Bienveni{color:#000000; font-size:16px;font-weight:bold;}
+.EMP_PRE_Emp{color:#000000; font-size:15px;font-weight:bold;}
+.EMP_PRE_Ase{color:#000000; font-size:13px;}
+.mensajeenv{color:#fa001d; font-size:14px;font-weight:bold;}
+.obligatorio{color:#fa001d; font-size:10px;}
+
+.txtproy{color:#000000; font-size:18px;}
+.txtbv{color:#ffffff;font-weight:bold;}
+.azulcampo{color:#ffffff;font-weight:bold;}
+.textcampo{color:#ffffff;font-weight:bold;}
+.barraimg{margin:0;padding:0;height:24px;background: #fff url(../img/Progreso.png) no-repeat;}
+.textdetalle{color:#222222;}
+.input1{border:1px solid #666666;margin:0px;padding:0px;font-size:11px;font-weight:bold;background-color:#ffffff;color:#666666;width:65px;height:19px;}
+.bg_campo{background-color:#F09A2A;}
+.ft_campo{font-size:12px;font-weight:bold;color:#ffffff;}
+.txtp2_400,
+.caja00,.caja01,.caja02,.caja03,.txta00,.txta01,.txta03,.txta10,.sele00,.sele01,.sele02,.sele03,
+.sele04,.sele05{border:1px solid #666666;margin:1px;padding:1px;font-size:11px;background-color:#ffffff;color:#000000;height:20px;}
+.caja00{width:50px;}
+.caja01{width:150px;}
+.caja02{width:200px;}
+.caja03{width:400px;}
+.txtp2_400{width:400px;height:100px;overflow:auto;}
+.txt00{width:200px;height:50px;overflow:auto;}
+.txta00{width:400px;height:100px;overflow:auto;}
+.txta01{width:200px;height:50px;overflow:auto;}
+.txta02{width:400px;height:50px;overflow:auto;}
+.txta03{width:400px;height:150px;overflow:auto;}
+.txta10{width:250px;height:50px;overflow:auto;}
+.sele00{width:90px;}
+.sele01{width:150px;}
+.sele02{width:200px;}
+.sele03{width:300px;}
+.sele04{width:40px;}
+.sele05{width:55px;}
+textarea {border:1px solid #666666;margin:1px;padding:1px;font-size:11px;
+background-color:#ffffff;color:#000000;width:400px;height:75px;}
+.selemulti{border:1px solid #666666;margin:1px;padding:1px;font-size:11px;
+		background-color:#ffffff;color:#000000;width:100px;height:80px;font-family:Arial;}
+.btn00 {border:1px solid #000000;margin:0;padding:0;font-size:12px;
+		background-color:#666666;color:#ffffff;width:120px;height:25px;font-weight:bold;}
+.btnSrch {border:1px solid #000000;margin:0;padding:0;font-size:12px;
+		background-color:#666666;color:#ffffff;width:60px;height:50px;}
+
+.formSrch{	border:1px solid #000000;margin:1px;padding:1px;background-color:#f4f22c; }
+.tabla01{	border:1px solid #000000; margin:0px; padding:0px; background-color:#E1C65B; }
+.sp_tabla{	border:1px solid #000000; margin:0px; padding:0px; }
+.sp_tabla tr td{ border: 1px solid #000000; }

@@ -1,0 +1,262 @@
+Numeral|Nivel|Contenido|Ponderacion
+0|1|INTRODUCCIÓN Reconociendo la gran diversidad cultural vinculada a la riqueza de las distintas regiones biogeográficas de México, el presente proyecto de norma considera las tres dimensiones de la sustentabilidad: ambiental, sociocultural y económica. La Norma se enfoca de forma prioritaria a las empresas prestadoras de servicios de turismo en áreas naturales, rurales o zonas indígena en nuestro país. Considerando que las exigencias de los turistas se inclinan hacia un turismo comprometido y participativo respecto a los intereses ambientales y socioculturales, la sustentabilidad se convierte en condición indispensable de éxito en el contexto de competitividad del sector turístico. En ese sentido, el ecoturismo se destaca en la aplicación de los principios de turismo sostenible, contribuyendo activamente en la conservación del patrimonio natural y cultural, por lo que es indispensable reconocer, fomentar e incentivar a los prestadores de servicios turísticos que cumplen con criterios óptimos de desempeño ambiental, mediante un certificado que constituya una ventaja competitiva en el mercado turístico, elevando así su imagen ante visitantes nacionales e internacionales, comunidades y organismos públicos y privados. El amplio reconocimiento mundial de la función de la certificación en el desempeño sustentable del sector turístico se refleja en las recomendaciones de distintos organismos internacionales, destacando de manera especial las “Recomendaciones a los Gobiernos para el Apoyo y la Creación de Sistemas Nacionales de Certificación de Sostenibilidad en Turismo” de la Organización Mundial del Turismo (OMT), las cuales se consideran cuidadosamente en el desarrollo de la presente proyecto de la norma, bajo el enfoque de que los criterios de certificación deben estar previamente establecidos, cuidando con ello la transparencia del sistema.|1
+1|1|OBJETIVO Establecer los requisitos y especificaciones de desempeño ambiental en el ecoturismo, así como el procedimiento para obtener la certificación como empresa.|1
+2|1|CAMPO DE APLICACIÓN Este proyecto de norma es de cumplimiento voluntario y aplica a personas morales o núcleos agrarios, interesados en el desempeño sustentable y buenas prácticas ambientales en el ecoturismo en el territorio nacional.|1
+3|1|REFERENCIAS Para la correcta aplicación de éste proyecto de norma se deben consultar las siguientes Normas Vigentes: NOM-059-SEMARNAT-2010: Protección ambiental-Especies nativas de México de flora y fauna silvestres- Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista de especies en riesgo. Publicado en el Diario Oficial de la Federación el 30/12/2010. NOM-09-TUR-2002: Que establece los elementos a que deben sujetarse los guías especializados en actividades específicas. Publicado en el Diario Oficial de la Federación el 26/09/2003. NMX-EC-065-IMNC-2000: Requisitos generales para organismos que operan sistemas de certificación de productos, cuya declaratoria de vigencia se publicó en el Diario Oficial de la Federación el 18/08/2000.|1
+4|1|DEFINICIONES Para efectos de este proyecto de norma, se consideran las siguientes definiciones:|0
+4.1|2|Área Natural Protegida: Es la zona del territorio nacional y aquella en la que la nación ejerce su soberanía y jurisdicción, en donde los ambiente originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y que están sujetas al régimen previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.|1
+4.2|2|Aprovechamiento extractivo: La utilización de ejemplares, partes o derivados de especies silvestres, mediante colecta, captura o caza.|1
+4.3|2|Aprovechamiento no extractivo: Las actividades directamente relacionadas con la vida silvestre en su hábitat natural que no impliquen la remoción de ejemplares, partes o derivados, y que de no ser adecuadamente reguladas pudieran causar impactos negativos de forma significativa sobre eventos biológicos, poblaciones o hábitat de las especies silvestres.|1
+4.4|2|Área de restauración: Espacio donde se realiza un conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.|1
+4.5|2|Área total del proyecto: Área que abarca los sitios que utilicen los interesados para la prestación de servicios turísticos, tales como senderismo, instalaciones turísticas, áreas de campamento y demás actividades turístico recreativas y educativas.|1
+4.6|2|Arquitectura vernácula y de paisaje: Tipo de arquitectura que ha sido proyectada por los habitantes de una región o periodo histórico determinado, mediante el conocimiento empírico, la experiencia de generaciones previas y la experimentación. Se trata de edificación modesta, sencilla y fundamentalmente nativa del medio rural.|1
+4.7|2|Bitácora: Cuaderno de registro escrito a través del cual se organizan las acciones que se llevan a cabo en cierto trabajo o tarea.|1
+4.8|2|Capacidad de carga turística: Se concibe como el máximo nivel de uso turístico que permite preservar el estado de equilibrio del entorno natural de un sitio turístico.|1
+4.9|2|Certificado: Documento que emite una declaración, basada en una decisión tomada después de la revisión de tercera parte y en la cual se ha demostrado que se cumplen los requisitos especificados relativos a productos, procesos, sistemas o persona.|1
+4.10|2|CONANP: Comisión Nacional de Áreas Naturales Protegidas.|1
+4.11|2|Corredor biológico o ecológico: Región a través de la cual las áreas protegidas existentes (parques nacionales, reservas biológicas) o los remanentes de los ecosistemas originales, mantienen su conectividad, con el fin de contrarrestar la fragmentación de los hábitats, que permiten el flujo de las especies.|1
+4.12|2|Criterios bioclimáticos: Son formas y elementos constructivos que permiten la reducción del consumo de energía, debido al aprovechamiento de energías renovables.|1
+4.13|2|Diagnóstico: La acción y efecto de recoger y analizar datos para conocer, evaluar y facilitar la toma de decisiones en aspectos de diversa naturaleza.|1
+4.14|2|Dictamen: Documento que emite la unidad de verificación, debidamente acreditada por la Entidad de Acreditación y aprobada por la PROFEPA, como resultado de la evaluación de la conformidad del presente proyecto de norma.|1
+4.15|2|Documento de planeación: Describe el proceso de acciones y lineamientos a desarrollar en las diferentes etapas del proyecto.|1
+4.16|2|Ecotecnia: Es un instrumento desarrollado para aprovechar eficientemente los recursos naturales y materiales y permitir la elaboración de productos y servicios, así como el aprovechamiento sostenible de los recursos naturales y materiales diversos para la vida diaria.|1
+4.17|2|Ecoturismo: Aquella modalidad turística ambientalmente responsable consistente en viajar o visitar espacios naturales relativamente sin perturbar, con el fin de disfrutar, apreciar y estudiar los atractivos naturales de dichos espacios; así como cualquier manifestación cultural del presente y del pasado que puedan encontrarse ahí, a través de un proceso que promueve la conservación, tiene bajo impacto ambiental y cultural e induce un involucramiento activo y socio-económicamente benéfico de las poblaciones locales.|1
+4.18|2|Energías alternativas: Son aquellas que pueden continuar existiendo mediante procesos de regeneración, siempre que éstos se realicen a una tasa mayor que la de su consumo. Esto les permite continuar existiendo a pesar de ser aprovechados por la humanidad. También se les denominan “energías renovables” y pueden considerarse a la energía solar, energía eólica, energía geotérmica, energía proveniente de fuentes de biomasa, pequeños aprovechamientos hidroenergéticos y energía proveniente de los océanos, entre otras.|1
+4.19|2|Especie en peligro de extinción: Aquella cuyas áreas de distribución o tamaño de sus poblaciones en el territorio nacional han disminuido drásticamente poniendo en riesgo su viabilidad biológica en todo su hábitat natural, debido a factores tales como la destrucción o modificación drástica del hábitat, aprovechamiento no sustentable, enfermedades o depredación, entre otros.|1
+4.20|2|Evaluación de conformidad: La determinación del grado de cumplimiento con las normas oficiales mexicanas o la conformidad con las normas mexicanas, las normas internacionales u otras especificaciones, prescripciones o características. Comprende, entre otros, los procedimientos de muestreo, prueba, calibración, certificación y verificación.|1
+4.21|2|Impacto cultural: Es la modificación de la herencia social, tangible o intangible heredada a un grupo social determinado, por la acción de otros seres humanos ajenos al mismo, ocasionada en un tiempo específico, en forma consciente o inconsciente.|1
+4.22|2|Indicador: Es un dato estadístico o medida de una cierta condición, cambio de calidad o cambio en el estado de algo que está siendo evaluado. Proporciona información y describe el estado del fenómeno objeto de estudio, pero con un significado que va más allá de aquel que está directamente asociado con un parámetro individual.|1
+4.23|2|Instalaciones turísticas: Es aquella infraestructura que permite la prestación, la práctica y el desarrollo de servicios ecoturísticos e incluye el equipo respectivo que permite llevar a cabo las actividades ecoturísticas.|1
+4.24|2|Interesado: Las personas física, moral o núcleos agrarios prestadores de servicios turísticos de ecoturismo para obtener certificación de sustentabilidad de ecoturismo.|1
+4.25|2|Interpretación ambiental: Un proceso de comunicación y aprendizaje en el cual una persona transmite ideas y relaciones a partir de un acercamiento directo entre la audiencia y los recursos que se interpretan. Para lograrlo se utilizan diferentes técnicas que ayudan a las personas a entender y apreciar lo que se observa.|1
+4.26|2|LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.|1
+4.27|2|PET: Materia prima plástica derivada del petróleo, correspondiendo su fórmula a la de un poliéster aromático. Su denominación técnica es Polietilén Tereftalato o Politereftalato de etileno cuya disponibilidad accesible a todos los embotelladores, unida a la adecuada comercialización de la materia prima.|1
+4.28|2|Patrimonio cultural: Todos aquellos elementos y manifestaciones tangibles o intangibles producidas por la sociedad, resultado de un proceso reproducción de las ideas y del material se constituyen en factores quehistórico en donde la identifican y diferencian al país o región en cuestión.|1
+4.29|2|Patrimonio natural: El patrimonio natural de un pueblo comprende los monumentos naturales constituidos por formaciones físicas y biológicas o por grupos de esas formaciones que tengan un valor excepcional desde el punto de vista estético o científico. También refiere a aquellas formaciones geológicas y fisiográficas, lugares o zonas naturales estrictamente delimitadas, que tengan un valor excepcional desde el punto de vista de la ciencia, de la conservación o de la belleza natural.|1
+4.30|2|Persona acreditada: Los organismos de certificación, laboratorios de prueba, laboratorios de calibración y unidades de verificación reconocidos por una entidad de acreditación para la evaluación de la conformidad.|1
+4.31|2|Prestador de servicios turísticos: La persona física o moral que habitualmente proporcione, intermedie o contrate con el turista los servicios turísticos a los que se refiere al presente proyecto de norma.|1
+4.32|2|Productos biodegradables: Productos o sustancias que puede descomponerse en elementos químicos naturales por la acción de agentes biológicos, como el sol, el agua, las bacterias, las plantas o los animales. En consecuencia, todas las sustancias son biodegradables, la diferencia radica en el tiempo que tardan los agentes biológicos en descomponerlas en químicos naturales, ya que toda forma parte de la naturaleza.|1
+4.33|2|PROFEPA: Procuraduría Federal de Protección al Ambiente.|1
+4.34|2|Programa: Conjunto organizado de actividades a realizar para alcanzar una o varias metas.|1
+4.35|2|Residuos sólidos urbanos: Son los generados en las casas habitación, que resultan de la eliminación de los materiales que se emplean en las actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques. Los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole.|1
+4.36|2|4.36 Residuos peligrosos: Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio como se establece en la Ley General para la Prevención y Gestión Integral de los Residuos.|1
+4.37|2|SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.|1
+4.38|2|Sendero: Es un pequeño camino o huella que permite recorrer con facilidad un área determinada. Los senderos cumplen varias funciones, tales como: servir de acceso y paseo para los visitantes, ser un medio para el desarrollo de actividades educativas y servir para los propósitos administrativos del área protegida, en su caso.|1
+4.39|2|Señalización: Es la parte de la ciencia de la comunicación visual que estudia las relaciones funcionales entre los signos de orientación en el espacio y el comportamiento de los individuos. Es de carácter autodidáctico, entendiendo éste como un modo de relación entre los individuos y su entorno. Se aplica al servicio de los individuos, a su orientación en un espacio y a un lugar determinado, para la mejor y la más rápida accesibilidad a los servicios requeridos y para una mayor seguridad en los desplazamientos y las acciones.|1
+4.40|2|Señalética: Es el empleo de signos gráficos para orientar a los personas en un espacio determinado e informar de los servicios que se encuentran a su disposición. Ésta exige un lenguaje universal entre los usuarios que permita que la información llegue sin errores e inmediatamente al receptor, empleándose en lugares con flujo humano.|1
+4.41|2|Separación secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados en los términos de la Ley General para la Prevención y Gestión Integral de los Residuos.|1
+4.42|2|Sitios de importancia biológica: Son aquellos espacios con recursos naturales bióticos que por su función ambiental son básicos para el cumplimiento de los ciclos de vida de los organismos vivos. Para efectos del presente proyecto de norma se consideran sitios de importancia biológica –entre otros– los siguientes: humedales de importancia internacional conforme a la Convención Relativa a los Humedales de Importancia Internacional (Convención sobre los Humedales, Ramsar) áreas de importancia para la Conservación del Hábitat de Aves Acuáticas, Regiones Terrestres Prioritarias, Regiones Marinas Prioritarias, Regiones Hidrológicas Prioritarias, definidas por la CONABIO.|1
+4.43|2|Sustentabilidad: Concepto que se basa en satisfacer las necesidades de la actual generación, pero sin que por esto se vean sacrificadas las capacidades futuras de las siguientes generaciones ante sus propias necesidades, es decir, es la búsqueda del equilibrio justo entre estos dos aspectos.|1
+4.44|2|UMA: Unidades de Manejo para la Conservación de la Vida Silvestre.|1
+4.45|2|Unidad de verificación: Persona física o moral que realiza actos de verificación mediante la constatación ocular o comprobación mediante muestreo, medición, pruebas de laboratorio o examen de documentos que se realizan para evaluar la conformidad en un momento determinado.|1
+4.46|2|Zona de aprovechamiento: Zonas que presentan condiciones adecuadas para sostener el desarrollo de actividades productivas y sociales (como el turismo), con el fin de orientar la localización de éstas y el aprovechamiento racional y sustentable de los recursos naturales, de tal manera que se garantice la permanencia de dichas actividades y la preservación del ecosistema.|1
+4.47|2|Zona de conservación: Zona sujeta a conservación ecológica destinada a preservar los elementos naturales y ecosistemas en buen estado, indispensables para el equilibrio ecológico y el bienestar de la población animal y/o vegetal.|1
+4.48|2|Zona de uso turístico: Espacios que contienen rasgos paisajístico atractivos para los visitantes y, que por su naturaleza, permiten un uso recreativo compatible con los objetivos del área. En estas zonas se permite el desarrollo de actividades educativas y de investigación, así como la infraestructura de servicios necesarios para el acceso, estadía y disfrute de los visitantes, incluyendo rutas de acceso carrozables, albergues y uso de vehículos motorizados permitidos.|1
+5.|1|REQUISITOS GENERALES|0
+5.1|2|Se deberá contar con un documento de planeación que contenga los siguientes apartados:|0
+5.1.1|3|Diagnóstico ambiental del área geográfica que enmarca el proyecto, en donde se describan los siguientes elementos:|0
+5.1.1.1|4|Ubicación detallada del proyecto y área(s) que involucra.|1
+5.1.1.2 |4|Clima.|1
+5.1.1.3|4|Geología.|1
+5.1.1.4|4|Hidrología, situación hídrica e identificación de las zonas de aprovechamiento del recurso agua, así como la identificación de los impactos ambientales generados por el proyecto.|1
+5.1.1.5|4|Flora y fauna endémica, así como la identificación de los impactos ambientales generados por el proyecto.|1
+5.1.1.6|4|Fauna migratoria, así como la identificación de los impactos ambientales generados por el proyecto.|1
+5.1.1.7 |4|Especies que en su caso se encuentren en el área del proyecto, las cuales se encuentren listadas en la NOM-059-SEMARNAT-2010, así como de los impactos ambientales generados por el proyecto.|1
+5.1.1.8|4|Identificar si el área o parte del área del proyecto está considerada como sitio de importancia biológica o Área Natural Protegida, de acuerdo con la definición del presente proyecto de norma y, en su caso, descripción de su estado de conservación actual.|1
+5.1.1.9|4|Identificar si el proyecto se encuentra dentro de algún Plan de Ordenamiento Ecológico en cualquiera de sus modalidades.|1
+5.1.2|3|Diagnóstico socioeconómico del área geográfica que enmarca el proyecto en donde se describan los siguientes elementos:|0
+5.1.2.1|4|Población total, edad y género.|1
+5.1.2.2|4|Índice y grado de marginación de acuerdo con los indicadores del Consejo Nacional de Población.|1
+5.1.2.3 |4|Grupo étnico y población indígena.|1
+5.1.2.4|4|Índice de educación.|1
+5.1.2.5 |4|Actividades económicas y población económicamente activa.|1
+5.1.2.6|4|Patrimonio cultural tangible e intangible.|1
+5.1.2.7|4|Servicios básicos de salud, seguridad pública, acceso a fuentes de energía, red agua, combustibles, etcétera.|1
+5.1.3 |3|A partir de los diagnósticos a que se refieren los numerales anteriores yla vocación del suelo, establecer una planeación territorial del área del proyecto en donde se delimitan los siguientes aspectos:|0
+5.1.3.1|4|Límites del área total del predio, de las áreas involucradas y medios de acceso.|1
+5.1.3.2 |4|Zonas de conservación designadas, jerarquizada con base en la cobertura vegetal nativa.|1
+5.1.3.3 |4|Zona designada para la restauración.|1
+5.1.3.4 |4|Áreas por tipo de aprovechamiento, delimitando la destinada al uso turístico.|1
+5.1.3.5 |4|Ubicación detallada de todas y cada una de las actividades e instalaciones actuales o las que se plantean desarrollar a un corto, mediano o largo plazo.|1
+5.1.3.6 |4|Descripción detallada del número, tipo de servicios, capacidad y características de diseño y construcción de las instalaciones con las que actualmente se cuentan o las que se plantean desarrollar a un corto, mediano o largo plazo, en su caso.|1
+5.1.3.7 |4|Descripción detallada del número, tipo, capacidad y características de las actividades con las que actualmente se cuentan o las que se plantean desarrollar a un corto, mediano o largo plazo, en su caso.|1
+5.2 |2|A partir de la Planeación contar con las directrices sobre los siguientes aspectos:|0
+5.2.1 |3|De uso de los recursos|0
+5.2.1.1 |4|Las limitaciones de uso o restricciones de aprovechamiento en las zonas de conservación y de restauración.|1
+5.2.1.2 |4|Recursos naturales y culturales aprovechados turísticamente, mencionando el tipo de atractivo, su denominación local y temporadas de visita.|1
+5.2.1.3 |4|Las actividades que se desarrollarán y ofertarán a corto, mediano y largo plazo de acuerdo con la vocación natural de los recursos.|1
+5.2.1.4 |4|La capacidad de carga turística de instalaciones y/o actividades, según el caso, conforme a la definición establecida en el presente proyecto de norma y su método de cálculo (Apéndice B de referencia).|1
+5.2.1.5 |4|Los ciclos de uso, no extractivo, de los recursos naturales que son utilizados para la realización de las actividades ofrecidas al visitante.|1
+5.2.1.6|4|Acciones de vigilancia para el cuidado de las zonas de conservación y de restauración.|1
+5.2.1.7 |4|El mecanismo de registro sobre la disminución o aumento de poblaciones de flora y fauna silvestre y de cualquier otro cambio que les afecte (Apéndice C de referencia).|1
+5.2.1.8 |4|Mecanismo para la identificación de impactos ambientales generados y las medidas de mitigación que el prestador de servicios se compromete a implementar para prevenir, mitigar o disminuir ese impacto ambiental.|1
+5.2.2 |3|De la demanda turística|0
+5.2.2.1 |4|Segmento de mercado a atender describiendo: edad, sexo, nivel socioeconómico, origen, género, nivel de estudio del turista.|1
+5.2.2.2 |4|El mecanismo de registro, medición, control de visitantes en instalaciones y/o actividades, según el caso, así como la generación de estadística del flujo turístico para asegurar que no se rebasa la capacidad de carga que se estableció.|1
+5.2.2.3 |4|Mecanismo para recibir evaluaciones, quejas y comentarios de los clientes; mantiene un registro de ellos y de las acciones correctivas correspondientes.|1
+5.2.3 |3|De comportamiento y contribución|0
+5.2.3.1 |4|El código de ética de la empresa, reconocido por el personal, en donde se establezcan los principios, valores y responsabilidad de la empresa hacia el medio ambiente, la comunidad y el visitante.|1
+5.2.3.2 |4|Contar con un reglamento para orientar el comportamiento responsable de los visitantes durante su estancia, mismo que se entrega o expone a la vista del visitante y que contiene al menos lo siguiente:|0
+5.2.3.2.1 |5|Se prohíbe arrojar cualquier tipo de residuos, especificándoles dónde y cómo deben ser depositados.|1
+5.2.3.2.2 |5|Se prohíbe dejar residuos peligrosos por parte del visitante durante su visita y que éstos deben ser devueltos a su lugar de origen, por ellos mismos.|1
+5.2.3.2.3|5|El visitante durante su estancia deberá cumplir con las indicaciones para el uso eficiente del agua dentro del área del proyecto.|1
+5.2.3.2.4 |5|Indicar el comportamiento que debe guardar el visitante durante su estancia y/o en la realización de las actividades para prevenir accidentes y daños al ecosistema.|1
+5.2.3.2.5 |5|Señalar la conducta que debe guardar el visitante durante su estancia para respetar los usos y costumbres locales.|1
+5.2.3.2.6 |5|Realizar los recorridos exclusivamente por los senderos delimitados y en forma ordenada.|1
+5.2.3.2.7 |5|Las restricciones de vestimenta, aditamentos, equipo y de fragancias cuando se realizan actividades de observación de flora y fauna acuática o terrestre.|1
+5.2.3.2.8 |5|La restricción de uso de productos cosméticos, repelentes, de protección solar de lenta degradación, tóxicos y/o nocivos para el ecosistema y sólo utilizar productos biodegradables, en el caso de ecosistemas acuáticos.|1
+5.2.3.2.9 |5|Cumplir con las indicaciones para prevenir la contaminación auditiva y evitar la perturbación de la vida silvestre acuática y terrestre.|1
+5.2.3.2.10|5|Cumplir con las instrucciones del guía sobre la utilización de la luz portátil para evitar la contaminación lumínica.|1
+5.2.3.2.11 |5|Se prohíbe introducir flora y fauna exótica en el área y especificar las restricciones de uso de los recursos naturales y patrimonio cultural dentro del área.|1
+5.2.3.2.12 |5|Se prohíbe alimentar a la fauna acuática o terrestre.|1
+5.2.3.2.13 |5|Se prohíbe la extracción, excavación, posesión, remoción, transporte de flora y fauna, de artefactos o restos humanos paleontológicos, arqueológicos y/o históricos en territorio nacional la zona marítima o terrestre.|1
+5.2.3.2.14 |5|Se prohíbe el encendido de fogata fuera del sitio destinado para ello, especificando cómo y en dónde se realizan, en caso de ofrecerla.|1
+5.2.3.3 |4|Sobre su contribución social, los prestadores de servicios turísticos demuestran llevar a cabo las siguientes acciones:|0
+5.2.3.3.1 |5|Participación activa en al menos dos actividades al año para el mejoramiento social, cultural, ambiental o económico de la comunidad local.|1
+5.2.3.3.2 |5|Participación de la comunidad en la toma de decisiones cuando se haga uso de su patrimonio natural y cultural con fines ecoturísticos, mediante acta de asamblea protocolizada.|1
+5.2.3.3.3 |5|Priorizar la utilización de insumos desarrollados, elaborados o extraídos de la región con base en un compromiso formal o programa de colaboración con miembros de las comunidades locales para el abastecimiento de insumos, prevaleciendo los productos orgánicos.|1
+5.2.3.3.4 |5|La prestación de los servicios turísticos –incluyendo el de guías– estará a cargo de personas residentes de la región, prioritariamente integrantes de la comunidad local y/o propietarios, observando en la medida de lo posible la equidad de género.|1
+5.2.3.3.5 |5|Se consideran al menos dos facilidades de accesibilidad para personas con capacidades diferentes y se le informa de esto al visitante al momento de contacto turista-empresa.|1
+5.2.4 |3|De información y educación|0
+5.2.4.1 |4|Se entrega o expone a la vista del visitante para su orientación, al menos, la siguiente información:|0
+5.2.4.1.1 |5|Aspectos técnicos y/o tradicionales sobre las características biológicas, geológicas, climáticas y culturales del sitio, entre otras.|1
+5.2.4.1.2 |5|Cómo usar las ecotecnias instaladas y recomendaciones para disminuir el consumo de agua y energía durante su estancia.|1
+5.2.4.1.3 |5|En caso de que el proyecto se encuentre dentro de un Área Natural Protegida, brindar información sobre su categoría, objetivo, características y reglamentación de uso.|1
+5.2.4.1.4 |5|Del compromiso de la empresa de cumplir con los principios y requerimientos del presente proyecto de norma.|1
+5.2.4.1.5 |5|La toma de fotografías o filmación debe realizarse siempre con el consentimiento de las personas y/o permiso de las autoridades competentes, en su caso.|1
+5.2.4.2 |4|Se cuenta con un programa de educación ambiental que considera las siguientes medidas:|0
+5.2.4.2.1 |5|Se realizan acciones de capacitación para el personal al menos una vez al año sobre los temas de: conservación y protección de flora y fauna silvestre, ahorro de energía, agua, reducción, así como de separación de residuos sólidos.|1
+5.2.4.2.2 |5|En el caso de que el proyecto se ubique dentro de un Área Natural Protegida, se notifica a la CONÁREA NATURAL PROTEGIDA sobre las acciones de educación ambiental previo a su implementación.|1
+5.2.4.2.3 |5|Se realizan acciones de educación ambiental dirigidas a la comunidad sobre temas de: conservación y protección de flora y fauna silvestre, ahorro de energía, agua, reducción y separación de residuos sólidos.|1
+5.2.4.2.4 |5|Se realizan acciones para fomentar las buenas prácticas ambientales en el turista sobre conservación, protección de flora y fauna silvestre, ahorro de energía, agua, reducción y separación de residuos sólidos.|1
+5.2.4.3 |4|Se cuenta con un programa de señalización y señalética que considera las siguientes medidas:|0
+5.2.4.3.1 |5|Se cuenta con un sistema de señalización y señalética diseñada para orientar en el espacio y tipos de conducta, así como informar, educar y sensibilizar al visitante, basado en los programas de interpretación y educación ambiental para mejorar la experiencia en el sitio.|1
+5.2.4.3.2 |5|Los letreros y/o señales son visibles, claros y construidos con materiales que no rompen con el entorno ni impactan visual y ambientalmente.|1
+5.2.4.3.3 |5|Se cuenta con bitácora y acciones de mantenimiento del sistema de señalización que garanticen su buen estado y la protección del entorno natural.|1
+5.2.4.3.4 |5|En el caso de que el proyecto se ubique dentro de un Área Natural Protegida se notifica a la CONANP sobre el sistema de señalización a desarrollar y sus características previo a su implementación.|1
+5.3 |2|Aplicación de indicadores o descriptores para dar seguimiento y evaluar el cumplimiento de lo establecido en la disposición 4.2. (Apéndice D de referencia).|1
+5.4 |2|Las actividades que se ofrecen por el prestador de servicios cumplen con las disposiciones jurídicas aplicables, entre ellas:|0
+5.4.1 |3|Contar con la autorización de la CONANP para la realización de cualquier actividad, en caso de que la prestación del servicio turístico se realice en un Área Natural Protegida.|1
+5.4.2 |3|La prestación de los servicios no involucra el aprovechamiento extractivo de flora y fauna silvestre y, en caso de aprovechamiento no extractivo, éste cumple con las disposiciones de la Ley General de Vida Silvestre.|1
+5.4.3|3|Las actividades o servicios ecoturísticos brindados no contravienen al Ordenamiento Ecológico del Territorio en cualquiera de sus modalidades, en caso de existir.|1
+5.4.4|3|En caso de que la prestación de servicios se realice en propiedad de terceros, debe contarse con la autorización por escrito del propietario o el acta de asamblea protocolizada en términos de la normatividad agraria vigente, si el predio es ejidal o comunal.|1
+5.4.5 |3|Contar con la concesión o permiso emitido por la autoridad competente, en caso de existir obras de canalización, interrupción de flujo o desvío de los cuerpos de agua.|1
+6 |1|REQUISITOS PARA INSTALACIONES|0
+6.1 |2|En la ubicación, diseño y construcción de las instalaciones para la prestación de servicios turísticos se consideran los siguientes aspectos:|0
+6.1.1 |3|La ubicación y características de las instalaciones no deterioran el hábitat e interrumpen los procesos biológicos de especies silvestres, respetando y fortaleciendo la continuidad de los corredores biológicos.|1
+6.1.2 |3|Se consideran en el diseño de las instalaciones elementos de arquitectura bioclimática, vernácula y de paisaje (Apéndice E de referencia).|1
+6.1.3 |3|Se utilizan técnicas y materiales constructivos regionales de extracción legal en la construcción de las instalaciones.|1
+6.1.4 |3|Se configuran armónicamente con el entorno los miradores y torres para las actividades de observación de ecosistemas y fauna silvestre.|1
+6.1.5 |3|Se generan los mínimos impactos en los muelles y embarcaderos utilizados para las actividades del proyecto, previniendo los procesos de erosión y sedimentación.|1
+6.1.6 |3|En la adecuación y mantenimiento de instalaciones se aplican los principios mencionados en puntos anteriores.|1
+6.2 |2|Se implementa un Plan de Gestión Ambiental que contiene lo siguiente:|0
+6.2.1 |3|Programa de aprovechamiento sustentable y uso eficiente del agua que incluye indicadores, metas, tiempos y responsables, en donde se consideren las siguientes medidas:|0
+6.2.1.1 |4|Captación y uso de agua pluvial.|1
+6.2.1.2 |4|Medidas y dispositivos de ahorro de agua.|1
+6.2.1.3 |4|Sistema para el tratamiento de aguas residuales (Apéndice F de referencia).|1
+6.2.1.4 |4|Reuso de aguas tratadas.|1
+6.2.2 |3|Programa de conservación y uso sustentable de la vida silvestre que incluye indicadores, metas, acciones, tiempos y responsables, en donde se consideren las siguientes medidas.|0
+6.2.2.1 |4|En las áreas deterioradas dentro del proyecto se realizan acciones de protección, control y/o restauración en coordinación con las autoridades competentes.|1
+6.2.2.2 |4|En el área total del proyecto no se introducen especies exóticas de flora y fauna en vida libre.|1
+6.2.2.3 |4|No existen ejemplares de fauna silvestre en confinamiento a excepción de los que se encuentran en una UMA autorizada.|1
+6.2.2.4 |4|El control de plagas, enfermedades y malezas se realizan bajo un protocolo de manejo integrado.|1
+6.2.2.5 |4|Ante la existencia de especies en el área del proyecto de alguna categoría de riesgo contenida en la NOM-059-SEMARNAT-2010, se llevan a cabo las siguientes medidas de protección:|0
+6.2.2.5.1 |5|El interesado, en coordinación con las autoridades competentes, desarrolla buenas prácticas de manejo de la especie.|1
+6.2.2.5.2 |5|Se colabora con las autoridades en alguna de las actividades de conservación en la época de apareamiento, arribazón y/o anidación de tortugas marinas u otras especies.|1
+6.2.3 |3|Programa de aprovechamiento sustentable y uso eficiente de energía que incluye indicadores, metas, tiempos y responsables, en donde se consideren las siguientes medidas:|0
+6.2.3.1 |4|Se promueve el aprovechamiento sustentable de energías de fuentes no convencionales.|1
+6.2.3.2  |4|Se promueve el uso eficiente de energía no convencional o tradicional.|1
+6.2.3.3 |4|Se adoptan medidas para el máximo aprovechamiento de la luz natural y se promueve el apagado de luces cuando no estén en uso, ya sea comunicado o con dispositivos especiales.|1
+6.2.3.4 |4|Se aplican criterios bioclimáticos de orientación, soleamiento y protección solar, aislamiento térmico y ventilación cruzada en las construcciones.|1
+6.2.3.5 |4|Se utilizan equipos y dispositivos para el uso eficiente de la energía para calefacción y aire acondicionado entre otros.|1
+6.2.3.6 |4|Se hace uso de colores, materiales y diseño para maximizar el aprovechamiento del calor solar en climas fríos o minimizarlos en climas tropicales.|1
+6.2.4|3|Programa de manejo integral de residuos sólidos urbanos que incluye indicadores, metas, tiempos y responsables, en donde se consideren las siguientes medidas:|0
+6.2.4.1|4|Se realiza separación secundaria de todos los residuos sólidos urbanos generados dentro de las instalaciones turísticas para su posible aprovechamiento de acuerdo con la definición del presente proyecto de norma.|1
+6.2.4.2 |4|Se dispone de botes de almacenamiento temporal con tapa, sin tener contacto con el suelo para evitar la filtración de lixiviados.|1
+6.2.4.3 |4|Los botes no presentan saturación de residuos sólidos urbanos.|1
+6.2.4.4 |4|Los sitios de almacenamiento temporal y botes no están cerca de cuerpos de agua.|1
+6.2.4.5 |4|El sitio de almacenamiento temporal debe contener botes de separación secundaria, contar con estructura y tapa para evitar la entrada de fauna nociva.|1
+6.2.4.6 |4|Los desechos orgánicos producidos por la empresa son utilizados como el compostaje y, posteriormente, se aplican en áreas verdes, huertas y/o jardines, alimentación de fauna (gallinas, borregos, etc.).|1
+6.2.4.7 |4|Se realizan acciones de reciclaje y reuso.|1
+6.2.4.8|4|Empleados y turistas aplican buenas prácticas en el manejo de residuos en el área total del proyecto.|1
+6.2.5|3|Programa de compra y uso de productos ambientalmente responsables que incluye indicadores, metas, tiempos y responsables, en donde se consideren al menos las siguientes medidas:|0
+6.2.5.1|4|Se reduce la compra, internación, venta y consumo de materiales y productos empacados individualmente como: PET, aluminio y, en general, envases y empaques de lenta degradación.|1
+6.2.5.2|4|El prestador de servicios turísticos y los visitantes no emplean productos de lenta degradación, persistentes, acumulables, tóxicos y/o nocivos para el ecosistema terrestre o acuático.|1
+6.2.5.3|4|Se utilizan productos biodegradables en el mantenimiento y limpieza de las instalaciones y se capacita al personal sobre su uso.|1
+6.2.5.4|4|En caso de que se cuente con productos biodegradables para uso o venta al visitante, se proporciona información sobre sus beneficios, uso y se promueve su consumo.|1
+6.2.5.5|4|Se lleva una bitácora de los productos que adquiere la empresa.|1
+6.2.5.6|4|Se tiene una política de preferencia a proveedores certificados o que emplean buenas prácticas ambientales y sociales.|1
+6.2.5.7|4|En caso de utilizar leña para preparar alimentos o para ofrecer calefacción a los visitantes, se consideran los siguientes criterios para su compra y/o uso:|0
+6.2.5.7.1|5|No se utilizan árboles o arbustos vivos para la obtención de leña.|1
+6.2.5.7.2|5|La leña a utilizarse proviene de:|0
+6.2.5.7.2.1|6|Arbolado muerto, derribado por causa de incendios, plagas o enfermedades forestales o fenómenos meteorológicos.|1
+6.2.5.7.2.2|6|Desperdicios de cortas silvícolas (puntas y ramas).|1
+6.2.5.7.2.3|6|Podas de árboles y arbustos, en donde la poda considere lo siguiente:|0
+6.2.5.7.2.3.1|7|Para la ejecución de podas de árboles y/o arbustos se emplean herramientas adecuadas y se realizan cortes que favorezcan la reproducción.|1
+6.2.5.7.2.3.2|7|No se utiliza leña que provenga de podas de árboles o arbustos que sirvan como refugio permanente de fauna silvestre.|1
+6.2.5.7.2.3.3|7|Cuando la leña provenga de poda de especies arbustivas debe considerarse franjas de protección sin alterar al menos dos metros de ancho en las orillas de cuerpos de agua.|1
+6.2.5.7.3|5|Contar con un área específica y delimitada para realizar fogatas y/o chimeneas y evitar que el fuego pueda propagarse, en caso de ofrecer este servicio.|1
+6.2.5.7.4|5|Tener designado a una persona responsable del encendido, supervisión, extinción y mantenimiento de área de fogata y/o chimeneas.|1
+7 |1|REQUISITOS PARA ACTIVIDADES|0
+7.1 |2|Se cuenta con un Programa de Interpretación Ambiental en donde se incluya:|0
+7.1.1 |3|Estrategias y temas para la interpretación ambiental.|1
+7.1.2 |3|Manual de interpretación ambiental que contenga:|0
+7.1.2.1 |4|La importancia y valor del ecosistema del sitio, sobre los recursos naturales que lo componen, describiendo los elementos ambientales relevantes.|1
+7.1.2.2 |4|Información sobre los valores, historia de la comunidad local, sensibilizándolo sobre la importancia del respeto de los usos y costumbres de los pueblos indígenas.|1
+7.1.2.3 |4|Ruta del recorrido, puntos estratégicos de interpretación, duración, técnicas y métodos de interpretación, buscando sensibilizar al visitante sobre la problemática del medio ambiente y de la importancia de su participación en la conservación.|1
+7.1.3 |3|Se provee información al visitante sobre las características, aspectos ambientales y socioculturales durante los recorridos, conforme a lo establecido en el Manual de Interpretación Ambiental.|1
+7.1.4 |3|La interpretación se lleva a cabo por guías acreditados de conformidad con la NOM-09-TUR-2002.|1
+7.1.5 |3|El desempeño del guía y/o información proporcionada son evaluados a través de un cuestionario de satisfacción.|1
+7.2 |2|Se implementa un programa de senderos que contempla las siguientes medidas:|0
+7.2.1 |3|Las actividades de caminata y senderismo se realizan únicamente en senderos o sistemas de senderos diseñados y/o establecidos para ese fin.|1
+7.2.2 |3|En el caso de que el proyecto se ubique dentro de una Área Natural Protegida se notifica a la CONANP sobre las actividades a desarrollar y sus características, previo a su implementación.|1
+7.2.3|3|Se respeta la capacidad de carga que ha sido definida para los senderos.|1
+7.2.4 |3|Los senderos cuentan con letreros y/o señales visibles, claras y construidas con materiales que no rompen con el entorno; no impactan visual ni ambientalmente.|1
+7.2.5 |3|Se cuenta con una bitácora y acciones de mantenimiento del sendero o sistemas de senderos que garanticen su buen estado y la protección del entorno natural.|1
+7.3 |2|Implementación del programa de conservación, manejo y aprovechamiento sustentable de vida silvestre que considere las siguientes medidas:|0
+7.3.1 |3|No se interrumpen los procesos biológicos de las poblaciones de fauna y flora silvestre por las actividades que se desarrollan dentro del área del proyecto.|1
+7.3.2 |3|En caso de existencia de cercas, se consideran espacios para el libre desplazamiento de la fauna silvestre.|1
+7.3.3 |3|No se utilizan ni circulan equipo motorizados terrestres en el área total del proyecto para realizar actividades recreativas, excepto para el transporte de carga, auxilio, vigilancia y pasajeros en las zonas de acceso previamente establecidos.|1
+7.3.4 |3|No existen estructuras rígidas que causen algún impacto negativo al hábitat y al ciclo biológico de las especies.|1
+7.3.5 |3|No hay fuentes de iluminación durante la época de apareamiento, anidación y avivamiento.|1
+7.4 |2|En caso de ofrecer actividades en ecosistemas acuáticos, la operación de embarcaciones se lleva a cabo sin impactar negativamente a la fauna cumpliendo con lo siguiente:|0
+7.4.1 |3|La aproximación a los ejemplares de vida silvestre se realiza con el motor apagado y sin que haya un cambio de dirección brusca.|1
+7.4.2|3|Las embarcaciones no se aproximan a una distancia menor de 50 m., a las parvadas de aves y/o mamíferos marinos.|1
+7.4.3 |3|Se utiliza el equipo motorizado acuático de cuatro tiempos y únicamente en canales y rutas previamente establecidas.|1
+7.4.4 |3|El abastecimiento de combustible, mantenimiento y limpieza para los equipos motorizados acuáticos se realiza en un sitio destinado específicamente para ello, y debe hallarse en tierra.|1
+7.4.5 |3|Las embarcaciones presentan buenas condiciones de mantenimiento para evitar impactos ambientales negativos en los ecosistemas acuáticos.|1
+7.4.6 |3|Se utilizan las boyas de ascenso y no se arrojan anclas a los arrecifes.|1
+7.4.7 |3|Se respetan las áreas destinadas al embarco y desembarco.|1
+8 |1|PROCEDIMIENTO DE EVALUACIÓN DE LA CONFORMIDAD|0
+8.1 |2|Evaluación de la Conformidad|0
+8.1.1 |3|La evaluación de la conformidad del presente proyecto de norma se realiza a petición de parte, por el organismo de certificación acreditado por la Entidad de Acreditación y aprobado por la SEMARNAT por conducto de la PROFEPA.|1
+8.1.2|3|La Secretaría da a conocer los listados de los organismos de certificación acreditados y aprobados para lo cual los interesados pueden acudir a la misma, a sus delegaciones federales o consultar la página electrónica (www.semarnat.gob.mx).|1
+8.1.3 |3|En caso de que no existan organismos de certificación acreditados y aprobados, la evaluación de la conformidad es realizada por la SEMARNAT, por conducto de la PROFEPA.|1
+8.1.4 |3|El interesado solicita por escrito, al organismo de certificación acreditado y aprobado de su elección, o a la SEMARNAT la evaluación en las siguientes modalidades: a) Instalaciones o b) Actividades o c) Instalaciones y actividades|1
+8.1.5 |3|De manera adjunta al escrito de solicitud para la evaluación de la conformidad, el interesado presenta el documento que integre toda la información que se solicita en el presente proyecto de norma, así como su domicilio para oír y recibir notificaciones.|1
+8.1.6 |3|El organismo de certificación acreditado y aprobado o la SEMARNAT da respuesta a la solicitud en 15 días naturales.|1
+8.1.7 |3|El organismo de certificación acreditado y aprobado o la SEMARNAT programa las auditorias necesarias para evaluar el cumplimiento de las especificaciones en cada una de las modalidades que establecen en el inciso 8.1.4. Una vez recibido el plan de auditoría por el interesado debe ser aceptado, por éste, al menos 3 días hábiles antes de su ejecución.|1
+8.1.8 |3|El organismo de certificación acreditado y aprobado o la SEMARNAT, evalúa el cumplimiento del presente proyecto de norma mediante la aplicación de la TABLA 3 del Apéndice A, en donde se establece el puntaje y criterios de valoración de acuerdo a las disposiciones contenidas en las modalidades citadas en el inciso 8.1.4.|1
+8.1.9 |3|El organismo de certificación acreditado y aprobado o la SEMARNAT emite un informe de acuerdo con la NMX-EC-065-IMNC-2000, con los resultados de evaluación de la conformidad del presente proyecto de norma, el cual se entrega al interesado en un plazo no mayor a 15 días naturales a partir del término de la auditoria.|1
+8.2 |2|PARA OBTENER EL CERTIFICADO|0
+8.2.1 |3|En caso de que a petición de parte el interesado solicite la certificación al organismo de certificación acreditado y aprobado o a la SEMARNAT por conducto de la PROFEPA para tal efecto, se debe cumplir con el siguiente procedimiento:|0
+8.2.1.1 |4|El interesado manifiesta su interés de obtener el certificado a través de un escrito dirigido al organismo de certificación acreditado y aprobado de su elección, o la SEMARNAT acompañando el informe, indicando el nivel de certificación de interés de acuerdo a la Tabla 1. Puntaje mínimo para obtener el certificado del Apéndice A.|1
+8.2.1.2 |4|El organismo de certificación acreditado y aprobado o la SEMARNAT revisa el grado de cumplimiento del presente proyecto de norma derivado del informe presentado, a fin de valorar el porcentaje alcanzado para obtener el certificado en el nivel correspondiente. El dictamen por parte del organismo de certificación acreditado y aprobado, debe ser emitido dentro de los siguientes 60 días naturales a partir de la emisión del informe y enviado en los siguientes 3 días hábiles al interesado después de la fecha de dictaminación.|1
+8.2.1.3 |4|La resolución del organismo de certificación acreditado y aprobado o la SEMARNAT debe ser fundada y en apego al mecanismo de evaluación establecido en el presente proyecto de norma.|1
+8.2.1.4 |4|El certificado debe tener la siguiente información:|0
+8.2.1.4.1 |5|Nombre del interesado que promueve la certificación.|1
+8.2.1.4.2 |5|Nombre, ubicación y delimitación de la empresa certificada.|1
+8.2.1.4.3 |5|Nivel obtenido y modalidad de acuerdo al numeral 8.1.4 y Apéndice A. Tabla 1.|1
+8.2.1.4.4 |5|Vigencia del certificado.|1
+8.2.1.4.5 |5|Logotipo y firma del organismo de certificación.|1
+8.2.1.4.6 |5|Nomenclatura del presente proyecto de norma.|1
+8.3 |2|VIGENCIA Y RATIFICACIÓN|0
+8.3.1 |3|La vigencia del certificado es de cuatro años, y puede ratificarse por periodos iguales.|1
+8.3.2 |3|El organismo de certificación acreditado y aprobado o la SEMARNAT realiza visitas de vigilancia para monitorear el cumplimiento de los requisitos que se cubrieron al momento de otorgar la certificación.|1
+8.3.3 |3|Para obtener la ratificación es imprescindible alcanzar un porcentaje de cumplimiento igual o mayor al obtenido en el proceso de certificación inmediato anterior.|1
+8.3.4 |3|En caso de que el interesado desee obtener un nivel superior en el certificado, debe realizar una evaluación completa de la conformidad del proyecto de norma.|1
+8.3.5 |3|A solicitud del interesado, de la SEMARNAT o del organismo de certificación acreditado y aprobado, se puede realizar muestreos aleatorios, para verificar el cumplimiento de las especificaciones y requisitos bajo los cuales se otorgó el certificado.|1
+8.3.6 |3|En caso de incumplimiento deberá iniciarse un procedimiento de cancelación del certificado.|1
+8.3.7 |3|El organismo de certificación acreditado y aprobado o la SEMARNAT puede allegarse de la información necesaria para emitir su informe de cancelación y debe notificar por escrito al interesado su resolución.|1
+8.3.8 |3|La SEMARNAT debe comunicar los listados de los organismos de certificación acreditados y aprobados, para lo cual los interesados pueden acudir a la misma, a sus delegaciones federales o consultar la página electrónica (www.semarnat.gob.mx).|1
+8.3.9 |3|Aquellas empresas que a la entrada en vigor del presente proyecto de norma estén certificadas conforme a la NMX-AA-133-SCFI-2006, tienen un periodo de dos años de transición para cumplir con lo establecido en el presente proyecto de norma.|1

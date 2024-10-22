@@ -1,0 +1,11 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^nmx133\.daimexico\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nmx133\.daimexico\.com$
+RewriteRule ^/?$ "http\:\/\/daimexico\.com\/\/nmx133" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^cdinmx\.daimexico\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.cdinmx\.daimexico\.com$
+RewriteRule ^/?$ "http\:\/\/daimexico\.com\/CDInmx" [R=301,L]
+
